@@ -380,7 +380,7 @@ main{
 .four{
     width: 100%;
     height: 505px;
-    background-image: url('assets/8116\ 1\ \(1\)\ \(1\).png');
+    background-image: url('./assets/8116\ 1\ \(1\)\ \(1\).png');
     background-size: cover;
     background-position: center;
     display: grid;
