@@ -977,7 +977,7 @@ footer .foot div:nth-child(2) button{
     }   
     .load{
         margin-top: -100px;
-        margin-left: -200px;
+        margin-left: -100px !important;
     }
   
     .main h1 {
@@ -1012,11 +1012,11 @@ footer .foot div:nth-child(2) button{
     .box div:nth-child(1) h1{
         font-size: 6vw;
         width: 80% !important;
-        padding-left: 20px;
+        padding-left: 10px;
     }
     .box div:nth-child(1) p{
         font-size: 3vw;
-        padding-left: 20px;
+        padding-left: 10px;
         width: 70% !important;
 
         height: auto;
